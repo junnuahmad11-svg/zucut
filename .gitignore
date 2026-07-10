@@ -1,0 +1,13 @@
+# Secret keys - NEVER push this
+.env
+
+# Dependencies
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build files
+dist/
+*.log
