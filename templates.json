@@ -1,0 +1,623 @@
+{
+    "templates": [
+        {
+            "id": "t001",
+            "name": "TikTok Trending",
+            "category": "trending",
+            "duration": 15,
+            "ratio": "9:16",
+            "thumbnail": "🔥",
+            "description": "Fast cuts with beat sync",
+            "clips": [
+                {
+                    "startTime": 0,
+                    "endTime": 2,
+                    "effect": "zoom-in",
+                    "transition": "fade",
+                    "speed": 1
+                },
+                {
+                    "startTime": 2,
+                    "endTime": 5,
+                    "effect": "glitch",
+                    "transition": "flash",
+                    "speed": 1.5
+                },
+                {
+                    "startTime": 5,
+                    "endTime": 8,
+                    "effect": "none",
+                    "transition": "slide-left",
+                    "speed": 1
+                },
+                {
+                    "startTime": 8,
+                    "endTime": 12,
+                    "effect": "zoom-out",
+                    "transition": "dissolve",
+                    "speed": 0.5
+                },
+                {
+                    "startTime": 12,
+                    "endTime": 15,
+                    "effect": "none",
+                    "transition": "fade",
+                    "speed": 1
+                }
+            ],
+            "texts": [
+                {
+                    "content": "YOUR TEXT HERE",
+                    "startTime": 0,
+                    "endTime": 3,
+                    "x": 50,
+                    "y": 20,
+                    "fontSize": 48,
+                    "fontWeight": "900",
+                    "color": "#ffffff",
+                    "animation": "scale-in",
+                    "style": "bold"
+                },
+                {
+                    "content": "SWIPE ➡️",
+                    "startTime": 12,
+                    "endTime": 15,
+                    "x": 50,
+                    "y": 80,
+                    "fontSize": 24,
+                    "fontWeight": "600",
+                    "color": "#00f5ff",
+                    "animation": "bounce",
+                    "style": "neon"
+                }
+            ],
+            "filters": {
+                "brightness": 10,
+                "contrast": 15,
+                "saturation": 20,
+                "filter": "vivid"
+            },
+            "audio": {
+                "type": "beat",
+                "bpm": 128,
+                "genre": "electronic"
+            }
+        },
+        {
+            "id": "t002",
+            "name": "Instagram Reel - Aesthetic",
+            "category": "social",
+            "duration": 30,
+            "ratio": "9:16",
+            "thumbnail": "✨",
+            "description": "Smooth transitions with soft filter",
+            "clips": [
+                {
+                    "startTime": 0,
+                    "endTime": 5,
+                    "effect": "none",
+                    "transition": "dissolve",
+                    "speed": 0.8
+                },
+                {
+                    "startTime": 5,
+                    "endTime": 10,
+                    "effect": "zoom-in",
+                    "transition": "fade",
+                    "speed": 1
+                },
+                {
+                    "startTime": 10,
+                    "endTime": 15,
+                    "effect": "none",
+                    "transition": "slide-right",
+                    "speed": 1
+                },
+                {
+                    "startTime": 15,
+                    "endTime": 22,
+                    "effect": "none",
+                    "transition": "dissolve",
+                    "speed": 1
+                },
+                {
+                    "startTime": 22,
+                    "endTime": 30,
+                    "effect": "zoom-out",
+                    "transition": "fade",
+                    "speed": 0.8
+                }
+            ],
+            "texts": [
+                {
+                    "content": "✨ aesthetic vibes ✨",
+                    "startTime": 0,
+                    "endTime": 5,
+                    "x": 50,
+                    "y": 50,
+                    "fontSize": 36,
+                    "fontWeight": "300",
+                    "color": "#ffffff",
+                    "animation": "fade-in",
+                    "style": "minimal"
+                }
+            ],
+            "filters": {
+                "brightness": 5,
+                "contrast": -5,
+                "saturation": -15,
+                "filter": "warm"
+            },
+            "audio": {
+                "type": "lofi",
+                "bpm": 85,
+                "genre": "lofi"
+            }
+        },
+        {
+            "id": "t003",
+            "name": "Business Intro",
+            "category": "business",
+            "duration": 20,
+            "ratio": "16:9",
+            "thumbnail": "💼",
+            "description": "Professional intro with clean animations",
+            "clips": [
+                {
+                    "startTime": 0,
+                    "endTime": 5,
+                    "effect": "zoom-in",
+                    "transition": "fade",
+                    "speed": 1
+                },
+                {
+                    "startTime": 5,
+                    "endTime": 12,
+                    "effect": "none",
+                    "transition": "slide-left",
+                    "speed": 1
+                },
+                {
+                    "startTime": 12,
+                    "endTime": 20,
+                    "effect": "none",
+                    "transition": "fade",
+                    "speed": 1
+                }
+            ],
+            "texts": [
+                {
+                    "content": "YOUR BRAND",
+                    "startTime": 0,
+                    "endTime": 5,
+                    "x": 50,
+                    "y": 40,
+                    "fontSize": 64,
+                    "fontWeight": "800",
+                    "color": "#ffffff",
+                    "animation": "slide-up",
+                    "style": "bold"
+                },
+                {
+                    "content": "Tagline goes here",
+                    "startTime": 2,
+                    "endTime": 5,
+                    "x": 50,
+                    "y": 55,
+                    "fontSize": 24,
+                    "fontWeight": "300",
+                    "color": "#a29bfe",
+                    "animation": "fade-in",
+                    "style": "minimal"
+                },
+                {
+                    "content": "www.yourbrand.com",
+                    "startTime": 15,
+                    "endTime": 20,
+                    "x": 50,
+                    "y": 85,
+                    "fontSize": 18,
+                    "fontWeight": "400",
+                    "color": "#00f5ff",
+                    "animation": "fade-in",
+                    "style": "neon"
+                }
+            ],
+            "filters": {
+                "brightness": 0,
+                "contrast": 10,
+                "saturation": -10,
+                "filter": "dramatic"
+            },
+            "audio": {
+                "type": "corporate",
+                "bpm": 120,
+                "genre": "corporate"
+            }
+        },
+        {
+            "id": "t004",
+            "name": "Music Video Vibes",
+            "category": "music",
+            "duration": 30,
+            "ratio": "16:9",
+            "thumbnail": "🎵",
+            "description": "Beat-synced cuts with energy",
+            "clips": [
+                {
+                    "startTime": 0,
+                    "endTime": 3,
+                    "effect": "flash",
+                    "transition": "flash",
+                    "speed": 1
+                },
+                {
+                    "startTime": 3,
+                    "endTime": 6,
+                    "effect": "glitch",
+                    "transition": "glitch",
+                    "speed": 1.5
+                },
+                {
+                    "startTime": 6,
+                    "endTime": 10,
+                    "effect": "zoom-in",
+                    "transition": "flash",
+                    "speed": 1
+                },
+                {
+                    "startTime": 10,
+                    "endTime": 15,
+                    "effect": "none",
+                    "transition": "slide-left",
+                    "speed": 0.5
+                },
+                {
+                    "startTime": 15,
+                    "endTime": 20,
+                    "effect": "spin",
+                    "transition": "dissolve",
+                    "speed": 2
+                },
+                {
+                    "startTime": 20,
+                    "endTime": 25,
+                    "effect": "zoom-out",
+                    "transition": "flash",
+                    "speed": 1
+                },
+                {
+                    "startTime": 25,
+                    "endTime": 30,
+                    "effect": "none",
+                    "transition": "fade",
+                    "speed": 0.5
+                }
+            ],
+            "texts": [
+                {
+                    "content": "🎵 VIBE 🎵",
+                    "startTime": 0,
+                    "endTime": 3,
+                    "x": 50,
+                    "y": 50,
+                    "fontSize": 72,
+                    "fontWeight": "900",
+                    "color": "#ff006e",
+                    "animation": "glitch",
+                    "style": "fire"
+                }
+            ],
+            "filters": {
+                "brightness": 15,
+                "contrast": 25,
+                "saturation": 30,
+                "filter": "cyberpunk"
+            },
+            "audio": {
+                "type": "edm",
+                "bpm": 140,
+                "genre": "edm"
+            }
+        },
+        {
+            "id": "t005",
+            "name": "Daily Vlog",
+            "category": "vlog",
+            "duration": 60,
+            "ratio": "16:9",
+            "thumbnail": "🎥",
+            "description": "Clean vlog style with captions",
+            "clips": [
+                {
+                    "startTime": 0,
+                    "endTime": 10,
+                    "effect": "none",
+                    "transition": "fade",
+                    "speed": 1
+                },
+                {
+                    "startTime": 10,
+                    "endTime": 20,
+                    "effect": "none",
+                    "transition": "dissolve",
+                    "speed": 2
+                },
+                {
+                    "startTime": 20,
+                    "endTime": 40,
+                    "effect": "none",
+                    "transition": "slide-left",
+                    "speed": 1
+                },
+                {
+                    "startTime": 40,
+                    "endTime": 60,
+                    "effect": "none",
+                    "transition": "fade",
+                    "speed": 1
+                }
+            ],
+            "texts": [
+                {
+                    "content": "A DAY IN MY LIFE",
+                    "startTime": 0,
+                    "endTime": 5,
+                    "x": 50,
+                    "y": 50,
+                    "fontSize": 42,
+                    "fontWeight": "700",
+                    "color": "#ffffff",
+                    "animation": "typewriter",
+                    "style": "minimal"
+                },
+                {
+                    "content": "📍 Location",
+                    "startTime": 10,
+                    "endTime": 15,
+                    "x": 10,
+                    "y": 90,
+                    "fontSize": 18,
+                    "fontWeight": "500",
+                    "color": "#ffffff",
+                    "animation": "slide-up",
+                    "style": "shadow"
+                }
+            ],
+            "filters": {
+                "brightness": 5,
+                "contrast": 5,
+                "saturation": 10,
+                "filter": "warm"
+            },
+            "audio": {
+                "type": "acoustic",
+                "bpm": 100,
+                "genre": "acoustic"
+            }
+        },
+        {
+            "id": "t006",
+            "name": "Meme Edit",
+            "category": "meme",
+            "duration": 10,
+            "ratio": "1:1",
+            "thumbnail": "😂",
+            "description": "Quick meme style with zoom and shake",
+            "clips": [
+                {
+                    "startTime": 0,
+                    "endTime": 3,
+                    "effect": "none",
+                    "transition": "none",
+                    "speed": 1
+                },
+                {
+                    "startTime": 3,
+                    "endTime": 5,
+                    "effect": "zoom-in",
+                    "transition": "flash",
+                    "speed": 2
+                },
+                {
+                    "startTime": 5,
+                    "endTime": 7,
+                    "effect": "glitch",
+                    "transition": "glitch",
+                    "speed": 1
+                },
+                {
+                    "startTime": 7,
+                    "endTime": 10,
+                    "effect": "zoom-in",
+                    "transition": "none",
+                    "speed": 0.5
+                }
+            ],
+            "texts": [
+                {
+                    "content": "WHEN YOU...",
+                    "startTime": 0,
+                    "endTime": 3,
+                    "x": 50,
+                    "y": 10,
+                    "fontSize": 32,
+                    "fontWeight": "900",
+                    "color": "#ffffff",
+                    "animation": "none",
+                    "style": "outline"
+                },
+                {
+                    "content": "💀💀💀",
+                    "startTime": 5,
+                    "endTime": 10,
+                    "x": 50,
+                    "y": 50,
+                    "fontSize": 64,
+                    "fontWeight": "400",
+                    "color": "#ffffff",
+                    "animation": "bounce",
+                    "style": "bold"
+                }
+            ],
+            "filters": {
+                "brightness": 20,
+                "contrast": 30,
+                "saturation": 40,
+                "filter": "vivid"
+            },
+            "audio": {
+                "type": "meme",
+                "bpm": 160,
+                "genre": "meme"
+            }
+        },
+        {
+            "id": "t007",
+            "name": "Product Showcase",
+            "category": "business",
+            "duration": 15,
+            "ratio": "1:1",
+            "thumbnail": "🛍️",
+            "description": "Clean product display with prices",
+            "clips": [
+                {
+                    "startTime": 0,
+                    "endTime": 5,
+                    "effect": "zoom-in",
+                    "transition": "fade",
+                    "speed": 0.5
+                },
+                {
+                    "startTime": 5,
+                    "endTime": 10,
+                    "effect": "none",
+                    "transition": "slide-left",
+                    "speed": 1
+                },
+                {
+                    "startTime": 10,
+                    "endTime": 15,
+                    "effect": "zoom-out",
+                    "transition": "fade",
+                    "speed": 1
+                }
+            ],
+            "texts": [
+                {
+                    "content": "NEW ARRIVAL",
+                    "startTime": 0,
+                    "endTime": 5,
+                    "x": 50,
+                    "y": 15,
+                    "fontSize": 28,
+                    "fontWeight": "700",
+                    "color": "#ff006e",
+                    "animation": "scale-in",
+                    "style": "bold"
+                },
+                {
+                    "content": "$29.99",
+                    "startTime": 5,
+                    "endTime": 15,
+                    "x": 50,
+                    "y": 85,
+                    "fontSize": 36,
+                    "fontWeight": "900",
+                    "color": "#00ff88",
+                    "animation": "bounce",
+                    "style": "neon"
+                },
+                {
+                    "content": "SHOP NOW ↗",
+                    "startTime": 10,
+                    "endTime": 15,
+                    "x": 50,
+                    "y": 70,
+                    "fontSize": 20,
+                    "fontWeight": "600",
+                    "color": "#ffffff",
+                    "animation": "slide-up",
+                    "style": "minimal"
+                }
+            ],
+            "filters": {
+                "brightness": 5,
+                "contrast": 10,
+                "saturation": 0,
+                "filter": "none"
+            },
+            "audio": {
+                "type": "upbeat",
+                "bpm": 110,
+                "genre": "pop"
+            }
+        },
+        {
+            "id": "t008",
+            "name": "Cinematic Intro",
+            "category": "trending",
+            "duration": 20,
+            "ratio": "16:9",
+            "thumbnail": "🎬",
+            "description": "Dramatic letterbox cinema feel",
+            "clips": [
+                {
+                    "startTime": 0,
+                    "endTime": 6,
+                    "effect": "zoom-in",
+                    "transition": "fade",
+                    "speed": 0.5
+                },
+                {
+                    "startTime": 6,
+                    "endTime": 12,
+                    "effect": "none",
+                    "transition": "dissolve",
+                    "speed": 1
+                },
+                {
+                    "startTime": 12,
+                    "endTime": 20,
+                    "effect": "zoom-out",
+                    "transition": "fade",
+                    "speed": 0.7
+                }
+            ],
+            "texts": [
+                {
+                    "content": "A STORY BEGINS",
+                    "startTime": 2,
+                    "endTime": 8,
+                    "x": 50,
+                    "y": 50,
+                    "fontSize": 48,
+                    "fontWeight": "300",
+                    "color": "#ffffff",
+                    "animation": "fade-in",
+                    "style": "minimal"
+                }
+            ],
+            "filters": {
+                "brightness": -10,
+                "contrast": 20,
+                "saturation": -20,
+                "filter": "dramatic"
+            },
+            "audio": {
+                "type": "cinematic",
+                "bpm": 80,
+                "genre": "cinematic"
+            }
+        }
+    ],
+    "categories": [
+        { "id": "all", "name": "All", "icon": "🎯" },
+        { "id": "trending", "name": "Trending", "icon": "🔥" },
+        { "id": "social", "name": "Social Media", "icon": "📱" },
+        { "id": "business", "name": "Business", "icon": "💼" },
+        { "id": "music", "name": "Music", "icon": "🎵" },
+        { "id": "vlog", "name": "Vlog", "icon": "🎥" },
+        { "id": "meme", "name": "Meme", "icon": "😂" }
+    ]
+}
